@@ -30,7 +30,6 @@ Layout/LineLength:
 Gemspec/RequiredRubyVersion:
   Enabled: false
 
-Layout/ParameterAlignment:
   EnforcedStyle: with_fixed_indentation
 
 Layout/CaseIndentation:
